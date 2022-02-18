@@ -1,2 +1,5 @@
 # IGNORE ALL APURE FILES
 *.apure
+
+# IGNORE GITLOG
+gitlog.pure
