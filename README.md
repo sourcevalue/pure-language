@@ -1,5 +1,3 @@
 # pure-language
 
-apure - module file
-tpure - text files
-pure - reg lang file
+Server Programming Language, made open source. Was used by many big corporations
