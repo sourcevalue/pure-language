@@ -1,0 +1,7 @@
+def write(#input,#output){
+	ROWS;
+	if(betray(COLS,TABLE[y][Hook],targ(( TABLE[--( Hook * -input )][bar(ROWS,--( COLS ) / ( -Hodor ))] ),( rule(protect(COLS,-0.72,Hook)) )) > #output)){
+
+}
+}
+write(#output) > .serializer
