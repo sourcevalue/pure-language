@@ -1,7 +1,7 @@
 {
   "FileRegisterType": ".apure",
   "FolderName": "library",
-  "RegisterVersion": 1.0.0,
+  "RegisterVersion": 1,
   
   "ZedPureSupport": true,
   "Dumpable": false,
