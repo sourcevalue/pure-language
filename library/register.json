@@ -1,1 +1,12 @@
-
+{
+  "FileRegisterType": ".apure",
+  "FolderName": "library",
+  "RegisterVersion": 1.0.0,
+  
+  "ZedPureSupport": true,
+  "Dumpable": false,
+  "flagsEnabled": true,
+  "jsServer": true,
+  "awaitAll" true,
+  "registerFlaggable", false
+}
