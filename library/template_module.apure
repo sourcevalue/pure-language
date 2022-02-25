@@ -1,1 +1,36 @@
-
+{
+  "ModuleName": "My Module",
+  "ModuleVersion: "1.0.0",
+  "ModuleDescription": "My epic pure module!",
+  
+  "AttachedScripts": {
+    [
+      "ScriptName" = "Demo"
+      "ScriptPath" = "./module_scripts"
+      "ScriptInfo" = "A little bit about the script"
+      
+      "Functions" = [
+        ygritte(),
+        assert(),
+      ],
+      "NewCallables" = [
+        "LordofDeath": "What do we say to the lord of death?",
+        "LODRespond": "Are our souls ready for harvesting?"
+      ],
+    ],
+  },
+  
+  "Statements": {
+    "isModuleActive": true,
+    "isDescriptionViewable": true,
+    "globalCall": true,
+    
+    "myStatemnt": true,
+    "myValueStatement": 1,
+    "myStringSatement": "Hello World!",
+    "myValueandStringStatement": false," or No!"
+    
+    "isMyDogWalked": true,
+    "isMyCatFed": true," at 1PM"
+  },
+},
